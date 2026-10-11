@@ -1,0 +1,12 @@
+
+.gitignore
+.markdownlint-cli2.yaml
+
+Dockerfile
+.dockerignore
+LICENSE
+
+**/*.md
+# CONTRIBUTING.md
+# README.md
+# SECURITY.md
