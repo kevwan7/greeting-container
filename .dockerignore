@@ -2,6 +2,8 @@
 .gitignore
 .markdownlint-cli2.yaml
 
+app/requirements.txt
+
 Dockerfile
 .dockerignore
 LICENSE
